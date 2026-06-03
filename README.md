@@ -29,5 +29,3 @@ An interactive quiz game to test knowledge.
 - **Concepts:** List of Dictionaries, User Input, Scoring logic.
 - **Features:** Multiple-choice questions, Real-time score tracking, Result display.
 
----
-*Created by [Aapka Naam]*
